@@ -34,6 +34,7 @@ pre{
     right: 15px;
     font-size: 15px;
     font-weight: 400;
+    font-family: "Outfit",sans-serif;
 }
 @media (min-width:773px){
     .container{
