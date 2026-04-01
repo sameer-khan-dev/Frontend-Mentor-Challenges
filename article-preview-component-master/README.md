@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sameer-khan-dev/Frontend-Mentor-Challenges/tree/main/article-preview-component-master)
-- Live Site URL: [Add live site URL here](https://sameer-khan-dev.github.io/Frontend-Mentor-Challenges/article-preview-component-master/)
+- Solution URL: [click me!](https://github.com/sameer-khan-dev/Frontend-Mentor-Challenges/tree/main/article-preview-component-master)
+- Live Site URL: [click me!](https://sameer-khan-dev.github.io/Frontend-Mentor-Challenges/article-preview-component-master/)
  
 ## My process
 
